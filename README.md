@@ -1,4 +1,34 @@
-### Hi there 👋
+## Park Young Hyun
+
+### 📫 Contacts  
+- email : yhp2205@gmail.com  
+- blog : https://yhp205.tistory.com
+- github : @yhp2205
+
+### 💬 Skills
+**Tech** : 한 번 이상 다루어 본 기술들
+
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> </a>
+<img alt="Pandas" src ="https://img.shields.io/badge/Pandas-150458.svg?&style=flat-square&logo=Pandas&logoColor=white"/> </a>
+<img alt="Numpy" src ="https://img.shields.io/badge/Numpy-013243.svg?&style=flat-square&logo=Numpy&logoColor=white"/> </a>
+<img alt="Jupyter" src ="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white"/> </a>
+<img alt="Amazon S3" src ="https://img.shields.io/badge/Amazon S3-569A31.svg?&style=flat-square&logo=Amazon S3&logoColor=white"/> </a>
+<img alt="Google Colab" src ="https://img.shields.io/badge/Google Colab-F9AB00.svg?&style=flat-square&logo=Google Colab&logoColor=white"/> </a>
+
+
+## Education  
+
+**연세대 미래캠퍼스 정보통계학과, 인지과학 연계전공**(2019 ~ ) 
+> Statistical computational programming(A+)  
+> Data Analysis Modeling Capstone Design(A+)  
+> Exploratory Data Analysis(A0)  
+> Business Programming(A0)   
+
+**Study**
+- 연세대 미래캠 google developer students club (2020 ~ 2021)
+
+- 연세대 취업 동아리 데이터 분석 스터디(2022.03.29 ~ 진행중)
+  - [데이터분석을 위한 SQL 레시피](https://g.co/kgs/wPVrmG)
 
 <!--
 **yhp2205/yhp2205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
