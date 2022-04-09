@@ -16,7 +16,7 @@
 <img alt="Google Colab" src ="https://img.shields.io/badge/Google Colab-F9AB00.svg?&style=flat-square&logo=Google Colab&logoColor=white"/> </a>
 
 
-## Education  
+## 📖 Education  
 
 **연세대 미래캠퍼스 정보통계학과, 인지과학 연계전공**(2019 ~ ) 
 > Statistical computational programming(A+)  
