@@ -26,7 +26,6 @@
 
 **Study**
 - 연세대 미래캠 google developer students club (2020 ~ 2021)
-
 - 연세대 취업 동아리 데이터 분석 스터디(2022.03.29 ~ 진행중)
   - [데이터분석을 위한 SQL 레시피](https://g.co/kgs/wPVrmG)
 
