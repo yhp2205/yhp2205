@@ -15,6 +15,9 @@
 <img alt="Amazon S3" src ="https://img.shields.io/badge/Amazon S3-569A31.svg?&style=flat-square&logo=Amazon S3&logoColor=white"/> </a>
 <img alt="Google Colab" src ="https://img.shields.io/badge/Google Colab-F9AB00.svg?&style=flat-square&logo=Google Colab&logoColor=white"/> </a>
 
+- Google Colab에서 Bigquery를 사용하여 데이터 전처리 경험
+- Jupyter notebook에서 Numpy와 Pandas를 이용해 데이터 분석 경험
+- Amazon S3를 이용하여 데이터 업로드 경험
 
 ## 📖 Education  
 
