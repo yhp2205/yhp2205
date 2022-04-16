@@ -31,6 +31,7 @@
 - 연세대 미래캠 google developer students club (2020 ~ 2021)
 - 연세대 취업 동아리 데이터 분석 스터디(2022.03.29 ~ 진행중)
   - [데이터분석을 위한 SQL 레시피](https://g.co/kgs/wPVrmG)
+  - [혼자 공부하는 머신러닝 + 딥러닝](https://www.google.com/search?q=%ED%98%BC%EC%9E%90+%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94+%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%2B%EB%94%A5%EB%9F%AC%EB%8B%9D&oq=%ED%98%BC%EC%9E%90+%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94+%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%2B%EB%94%A5%EB%9F%AC%EB%8B%9D&aqs=chrome.0.0i355i512j46i512j0i512l4j0i30.6951j0j4&sourceid=chrome&ie=UTF-8)
 
 <!--
 **yhp2205/yhp2205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
