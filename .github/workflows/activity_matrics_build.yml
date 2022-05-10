@@ -23,7 +23,7 @@ jobs:
       - name: yhp2205's metrics build
         uses: yhp2205/metrics@latest
         with:
-          token: ${{ secrets.YOUNGHYUNS_METRICS_TOKEN }}
+          token: ${{ secrets.YOUNGHYUNS_MATRICS_TOKEN }}
           filename: github-metrics-yhp2205.svg
           base: ""
           plugin_isocalendar: yes
