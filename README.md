@@ -23,6 +23,8 @@
 - Jupyter notebook에서 Numpy와 Pandas를 이용해 데이터 분석 경험
 - Amazon S3를 이용하여 데이터 업로드 경험
 - Tableau를 이용한 데이터 시각화 경험
+- Matplotlib 사용한 데이터 시각화
+- Python sklearn 사용한 데이터 분석 및 모델링 경험
 
 
 <br/>  
