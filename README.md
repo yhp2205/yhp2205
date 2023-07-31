@@ -54,6 +54,7 @@
 - 연세대 취업 동아리 데이터 분석 스터디(2022.03.29 ~ 진행중)
   - [데이터분석을 위한 SQL 레시피](https://g.co/kgs/wPVrmG)
   - [혼자 공부하는 머신러닝 + 딥러닝](https://url.kr/1i3v2g)
+  - [모두의 파이썬&알고리즘](https://url.kr/h6ft8c)
 
 <!--
 **yhp2205/yhp2205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
