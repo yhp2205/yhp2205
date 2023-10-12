@@ -4,7 +4,7 @@
 ## 📫 Contacts  
 - email : yhp2205@gmail.com  
 - blog : https://yhp2205.github.io/
-- github : [@yhp2205](https://github.com/yhp2205)
+
 <br/>  
 
 ## 💬 Skills
