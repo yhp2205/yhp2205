@@ -7,7 +7,7 @@
 
 <br/>  
 
-## 💬 Skills
+## ⌨️ Skills
 **Tech** : 한 번 이상 다루어 본 기술들
 
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> </a>
