@@ -15,8 +15,8 @@
 <img alt="Numpy" src ="https://img.shields.io/badge/Numpy-013243.svg?&style=flat-square&logo=Numpy&logoColor=white"/> </a>
 <img alt="Jupyter" src ="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white"/> </a>
 <img alt="Google Cloud" src ="https://img.shields.io/badge/Google Cloud-4285F4.svg?&style=flat-square&logo=Google Cloud&logoColor=white"/> </a>
-<img alt="Amazon S3" src ="https://img.shields.io/badge/Amazon S3-569A31.svg?&style=flat-square&logo=Amazon S3&logoColor=white"/> </a>
 <img alt="Google Colab" src ="https://img.shields.io/badge/Google Colab-F9AB00.svg?&style=flat-square&logo=Google Colab&logoColor=white"/> </a>
+<img alt="Amazon S3" src ="https://img.shields.io/badge/Amazon S3-569A31.svg?&style=flat-square&logo=Amazon S3&logoColor=white"/> </a>
 <img alt="Tableau" src ="https://img.shields.io/badge/Tableau-E97627.svg?&style=flat-square&logo=Tableau&logoColor=white"/> </a>
 
 
