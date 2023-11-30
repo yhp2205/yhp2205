@@ -27,7 +27,7 @@
 - Matplotlib 사용한 데이터 시각화
 - Python sklearn 사용한 데이터 분석 및 모델링 경험
 - Google Cloud Platform(GCP)에서 Pytorch를 사용한 모델 생성 경험
-- GCP에서 클라우드 플랫폼(Bucket, Cloud storage)을 이용한 대용량 데이터 처리 경험
+- GCP에서 클라우드 플랫폼(Cloud storage)을 이용한 대용량 데이터 처리 경험
 
 
 <br/>  
