@@ -25,18 +25,17 @@
 - Tableau를 이용한 데이터 시각화 경험
 - Matplotlib 사용한 데이터 시각화
 - Python sklearn 사용한 데이터 분석 및 모델링 경험
+- Google Cloud Platform(GCP)에서 Pytorch를 사용한 모델 생성 경험
+- GCP에서 클라우드 플랫폼(Bucket, Cloud storage)을 이용한 대용량 데이터 처리 경험
 
 
 <br/>  
 
 ### 앞으로 공부할 내용
-- TensorFlow, PyTorch 등 모델링을 위한 프레임워크 사용
 - 대규모 실시간 추천 시스템 구축
 - Hadoop이나, Spark, Hive 같은 빅데이터 분석 플랫폼 사용
 - 데이터 기반의 가설 수립 및 검증
-- 클라우드 환경에서의 개발/운영
 - 대규모 트래픽 처리를 위한 확장 가능한 데이터 아키텍처 구성
-- 다양한 도메인의 데이터 분석 경험, 대용량 데이터를 다뤄본 경험
 
 
 <br/>
