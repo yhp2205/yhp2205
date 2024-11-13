@@ -43,7 +43,7 @@
 
 ## 📖 Education  
 
-**연세대 미래캠퍼스 정보통계학과, 인지과학 연계전공**(2019 ~ ) 
+**연세대 미래캠퍼스 정보통계학과, 인지과학 연계전공**(2019 ~ 2024) 
 > Statistical computational programming(A+)  
 > Data Analysis Modeling Capstone Design(A+)  
 > Exploratory Data Analysis(A0)  
@@ -55,7 +55,7 @@
   - [데이터분석을 위한 SQL 레시피](https://g.co/kgs/wPVrmG)
   - [혼자 공부하는 머신러닝 + 딥러닝](https://url.kr/1i3v2g)
   - [모두의 파이썬&알고리즘](https://url.kr/h6ft8c)
-- GoogleCloud 기반 인공지능 개발자 과정(2023.10.04 ~ ing)
+- GoogleCloud 기반 인공지능 개발자 과정(2023.10.04 ~ 2024.02.11)
   - [파이썬 머신러닝 완벽 가이드](https://url.kr/n1tmsu)
 
 <!--
