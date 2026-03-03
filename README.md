@@ -42,15 +42,8 @@
 <br/>
 
 ## 📖 Education  
-
-**연세대 미래캠퍼스 정보통계학과, 인지과학 연계전공**(2019 ~ 2024) 
-> Statistical computational programming(A+)  
-> Data Analysis Modeling Capstone Design(A+)  
-> Exploratory Data Analysis(A0)  
-> Business Programming(A0)   
-
 **Study**
-- 연세대 미래캠 google developer students club (2020 ~ 2021)
+- google developer students club (2020 ~ 2021)
 - 연세대 취업 동아리 데이터 분석 스터디(2022.03.29 ~ 2022.07)
   - [데이터분석을 위한 SQL 레시피](https://g.co/kgs/wPVrmG)
   - [혼자 공부하는 머신러닝 + 딥러닝](https://url.kr/1i3v2g)
