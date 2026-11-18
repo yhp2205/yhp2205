@@ -57,7 +57,7 @@
 ## 📖 Education & Activities
 - **Technical Speaker & Enablement** (2026)
   - Google Workspace Discovery Day 기업 고객 50인 단독 발표 (*「Gemini Enterprise × GWS 부서별 실무 적용」*)
-  - 5개 의료기관 누적 339인(6회) 생성형 AI 핸즈온 실습 환경 프로비저닝 및 현장 기술지원
+  - 6개 의료기관 누적 389인(7회) 생성형 AI 핸즈온 실습 환경 프로비저닝 및 현장 기술지원
 - **GoogleCloud 기반 인공지능 개발자 과정 (SeSAC, 752시간)** (2023.10.04 ~ 2024.02.11)
   - Vertex AI Workbench Multi-GPU 기반 고속도로 CCTV 차량 인식 `YOLOv8` 모델 파인튜닝 (`mAP50-95: 0.743 → 0.823`)
 - **연세대학교 미래캠퍼스** (2024.08 졸업)
